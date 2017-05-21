@@ -2,7 +2,7 @@ import datetime as dt
 import six
 
 if six.PY2:
-    from Tkinter import *
+    from tkinter import *
 
 if six.PY3:
     from tkinter import *
